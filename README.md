@@ -1,4 +1,4 @@
-# `shame.js`: be shamed for your `eval()` addiction.
+# `shame.js`: curb your `eval()` addiction.
 
 
 Install `shame.js` with:
