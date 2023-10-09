@@ -1,6 +1,6 @@
 {
   "name": "shame.js",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "eval(\"'Javascript' === 'Incredible'\")",
   "main": "index.js",
   "scripts": {
