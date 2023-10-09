@@ -9,11 +9,11 @@ function shame(){
   `
   class Function {
     constructor() {
-      console.warn("ಥ_ಥ")
+      console.warn("ಠ_ಠ.... look me in the eyes.")
     }
   }
   global.ಥ_ಥ = global.eval
-  global.eval = () => console.warn("ಠ_ಠ")
+  global.eval = () => console.warn("ಥ_ಥ.... I'm weeping.")
   global.ಠ_ಠ = global.Function
   global.Function = Function
   global.ᐛ = () => {
